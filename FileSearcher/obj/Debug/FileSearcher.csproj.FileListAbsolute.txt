@@ -1,0 +1,30 @@
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\bin\Debug\FileSearcher.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\bin\Debug\FileSearcher.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\bin\Debug\FileSearcher.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\obj\Debug\FileSearcher.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\bidu_ev59\Downloads\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+D:\НАТАША\Шаг\Homework\Projects\System programming\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+D:\НАТАША\Шаг\Homework\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+D:\НАТАША\Шаг\Homework\Projects\System programming\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
